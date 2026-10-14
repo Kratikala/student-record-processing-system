@@ -1,0 +1,35 @@
+[
+    {
+        "student_id": "S101",
+        "name": "Sanju",
+        "department": "CSE",
+        "marks": [
+            78,
+            85,
+            72
+        ],
+        "attendance": 91
+    },
+    {
+        "student_id": "S102",
+        "name": "Riya",
+        "department": "CSE",
+        "marks": [
+            80,
+            85,
+            90
+        ],
+        "attendance": 95
+    },
+    {
+        "student_id": "S107",
+        "name": "Kratika",
+        "department": "CSE",
+        "marks": [
+            88.0,
+            98.0,
+            45.0
+        ],
+        "attendance": 78.0
+    }
+]
