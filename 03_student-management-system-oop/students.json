@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "ST001",
+        "name": "Kratika",
+        "department": "IAC",
+        "marks": [
+            90.0,
+            85.0,
+            79.0
+        ],
+        "attendance": 79.0,
+        "status": "Active"
+    }
+]
